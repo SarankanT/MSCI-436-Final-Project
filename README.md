@@ -27,7 +27,7 @@ Section 1: Introduction
 Section 2: Install & Import Packages
   - Install streamlit and localtunnel
   - Import Packages
-  - 
+    
 Section 3: Load Data (train.csv data)
 
 Section 4: Clean Data 
