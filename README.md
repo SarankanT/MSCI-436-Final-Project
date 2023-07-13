@@ -21,6 +21,9 @@ We designed our user interface with the end user as the focal point. As we devel
 
 <img width="2489" alt="Screenshot 2023-07-13 at 3 18 38 PM" src="https://github.com/SarankanT/MSCI-436-Final-Project/assets/60015755/b16e92ca-0c3d-472a-8d73-529f791ee1b2">
 
+## Demo
+[Link to the demo](https://youtu.be/dkjt7JoY0mU)
+
 ## Code Format 
 Section 1: Introduction 
 
