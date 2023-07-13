@@ -17,7 +17,7 @@ We designed our user interface with the end user as the focal point. As we devel
 
 <img width="2474" alt="Screenshot 2023-07-13 at 3 17 48 PM" src="https://github.com/SarankanT/MSCI-436-Final-Project/assets/60015755/b1489d03-6820-4468-8753-6a5b6b9cbc8b">
 
-<img width="2495" alt="Screenshot 2023-07-13 at 3 18 29 PM" src="https://github.com/SarankanT/MSCI-436-Final-Project/assets/60015755/d447d667-fd12-4d81-b959-a70d6797dddb">
+![39E0126A-F24A-4329-8180-479EECBF874F_1_201_a](https://github.com/SarankanT/MSCI-436-Final-Project/assets/60015755/c71667a4-411a-4ca3-a4c6-5b50ed548174)
 
 <img width="2489" alt="Screenshot 2023-07-13 at 3 18 38 PM" src="https://github.com/SarankanT/MSCI-436-Final-Project/assets/60015755/b16e92ca-0c3d-472a-8d73-529f791ee1b2">
 
