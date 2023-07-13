@@ -8,7 +8,7 @@ Our objective for this campaign is to analyze various characteristics of houses 
 We will examine the correlations between specific house characteristics and their corresponding prices. This analysis will help us determine whether services offered by our landscaping company, such as adding a fireplace or improving basement finishing, have the potential to enhance the value of a house.
 
 ## Data
-For this project we used the "House Prices"[https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview] dataset found on Kaggle/
+For this project we used the ["House Prices"](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview) dataset found on Kaggle/
 
 ## The User Interface 
 We designed our user interface with the end user as the focal point. As we developed this regression model for the landscaping company, our primary goal was to create a user-friendly interface that the company could utilize as an effective marketing tool.
