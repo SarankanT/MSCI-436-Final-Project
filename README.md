@@ -33,10 +33,8 @@ Section 5: Plotting the correlations of Features vs. Sale Price
 
 Section 6: Split Data
 
-Section 7: Create Linear Regression Model
+Section 7: Create and error test the Linear Regression Model
 
-Section 8: Error Test the Linear Regression Model
-
-Section 9: Create User Interface Using Streamlit
+Section 8: Create User Interface Using Streamlit
 
 
