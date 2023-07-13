@@ -11,7 +11,7 @@ We will examine the correlations between specific house characteristics and thei
 For this project we used the ["House Prices"](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview) dataset found on Kaggle.
 
 ## The User Interface 
-We designed our user interface with the end user as the focal point. As we developed this regression model for the landscaping company, our primary goal was to create a user-friendly interface that the company could utilize as an effective marketing tool.
+We designed our user interface with the end user as the focal point. As we developed this regression model for the landscaping company, our primary goal was to create a user-friendly interface that the company could utilize as an effective marketing tool. The UI is intended to be viewed in streamlit's wide mode.
 
 Add images of Streamlit UI
 
